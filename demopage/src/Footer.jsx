@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <div className="footer">
         <div className="footer-text">
-          © 2025 Emotional Analysis by spacece.co | All Rights Reserved
+          © 2025 Emotional Analysis by spacece.co | All Rights Reserved | Jenkins
         </div>
         <div className="footer-social">
           <a href="https://www.facebook.com/SpacECEIn/" target="_blank">
