@@ -8,7 +8,7 @@ const TopBar = () => {
         <a href='https://www.spacece.co/'><img src="/icon.jpeg" alt="Logo" /></a>
       </div>
       <div className="headings">
-        <h1 className="big-heading">RENU RENUEmotional Analysis Tool!</h1>
+        <h1 className="big-heading">RENUre RENUEmotional Analysis Tool!</h1>
         <h2 className="small-heading">Captures emotions through WebCam</h2>
       </div>
     </div>
